@@ -1,1 +1,1 @@
-# QA_Amazon
+ABC Business Solutions has bagged a contract for an Automation testing services project with Amazon. As part of the preliminary project acceptance, Amazon has asked ABC Business Solutions to design a POC of the Selenium automation project with data-driven framework using standard data exchange files with Maven and TestNG. As you are part of the ABC Business Solutions team you are given the task for designing this POC.
